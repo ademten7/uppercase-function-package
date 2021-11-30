@@ -1,6 +1,6 @@
 {
   "name": "nodejs-uppercase-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "### nodejs-ten-uppercase-package",
   "main": "index.js",
   "scripts": {
