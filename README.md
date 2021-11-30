@@ -16,7 +16,7 @@ npm i nodejs-ten-uppercase-package
 const { getUpperCase, isPalindrome } = require("nodejs-ten-uppercase-package");
 ```
 
-\*ES6 Syntax
+\* ES6 Syntax
 
 ```js
 import { getUpperCase, isPalindrome } from "nodejs-ten-uppercase-package";
