@@ -1,12 +1,20 @@
 {
-  "name": "nodejs-uppercase-package",
-  "version": "1.1.0",
-  "description": "### nodejs-ten-uppercase-package",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "nodejs-uppercase-package",
+    "version": "1.1.3",
+    "description": "### nodejs-ten-uppercase-package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ademten7/uppercase-function-package.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ademten7/uppercase-function-package/issues"
+    },
+    "homepage": "https://github.com/ademten7/uppercase-function-package#readme"
 }
